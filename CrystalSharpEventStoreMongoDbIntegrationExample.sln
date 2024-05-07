@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalSharpEventStoreMongoDbIntegrationExample.Application", "CrystalSharpEventStoreMongoDbIntegrationExample.Application\CrystalSharpEventStoreMongoDbIntegrationExample.Application.csproj", "{71940CE1-A1D8-4372-8CE4-AC074B4FA332}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalSharpEventStoreMongoDbIntegrationExample.Api", "CrystalSharpEventStoreMongoDbIntegrationExample.Api\CrystalSharpEventStoreMongoDbIntegrationExample.Api.csproj", "{FDD53A7E-1B5A-46F7-9507-2F9214D57885}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71940CE1-A1D8-4372-8CE4-AC074B4FA332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71940CE1-A1D8-4372-8CE4-AC074B4FA332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71940CE1-A1D8-4372-8CE4-AC074B4FA332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71940CE1-A1D8-4372-8CE4-AC074B4FA332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDD53A7E-1B5A-46F7-9507-2F9214D57885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD53A7E-1B5A-46F7-9507-2F9214D57885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD53A7E-1B5A-46F7-9507-2F9214D57885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD53A7E-1B5A-46F7-9507-2F9214D57885}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCAAF397-566D-40ED-803B-932E0BF0D0C9}
+	EndGlobalSection
+EndGlobal
